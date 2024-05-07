@@ -2,7 +2,7 @@
   "devDependencies": {
     "jest": "^29.3.1"
   },
-  "name": "challenge",
+  "name": "@selenerojas/challenge",
   "version": "1.0.0",
   "description": "Testing tests",
   "main": "index.js",
